@@ -49,8 +49,8 @@ This project uses GitHub graphQL API to get the commit histories and write into 
 1. [Pin the newly created Gist](https://help.github.com/en/github/setting-up-and-managing-your-github-profile/pinning-items-to-your-profile)
 
 
-###time
-morning = 6 - 12
-daytime = 12 - 18
-evening = 18 - 24
-night = 0 - 6
+### time
+- morning = 6 - 12
+- daytime = 12 - 18
+- evening = 18 - 24
+- night = 0 - 6
